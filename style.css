@@ -1,0 +1,25 @@
+.box {
+    background: #EA7457;
+    width: 800px;
+    height: 600px;
+
+}
+.bar{
+    width: 50px;
+    height: 955px;
+    margin: -10px 45%;
+    background: #B53733;
+}
+.box1 {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    content: "";
+    background: #B53733;
+    border: 25px solid #EA7457;
+    margin: top -50px;
+    margin: left -200px;
+    box-shadow: 50px 50px #B53733;
+}
+
+
